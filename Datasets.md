@@ -21,7 +21,7 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 charges: Individual medical costs billed by health insurance
 
 Acknowledgements
-The dataset is available on GitHub here.
+The dataset is available on GitHub here. https://github.com/stedy/Machine-Learning-with-R-datasets
 
 Inspiration
 Can you accurately predict insurance costs?
