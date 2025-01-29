@@ -43,7 +43,7 @@ The dataset consists of information about health insurance beneficiaries. The co
    - R² Score: `0.7998`
    - Coefficients: Age, BMI, children, smoking, and region had significant impacts.
 
- 2. Ridge Regression
+ 2. RIDGE Regression
    - R² Score: `0.7996`
    - Used to reduce overfitting by adding a penalty for large coefficients.
 
