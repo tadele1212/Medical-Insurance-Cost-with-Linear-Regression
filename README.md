@@ -47,7 +47,7 @@ The dataset consists of information about health insurance beneficiaries. The co
    - R² Score: `0.7996`
    - Used to reduce overfitting by adding a penalty for large coefficients.
 
- 3. Lasso Regression
+ 3. LASSO Regression
    - R² Score: `0.7998`
    - Emphasized feature selection by shrinking less important features to zero.
 
